@@ -14,7 +14,7 @@ Segue abaixo as instruções para rodar o trabalho de Avaliação de Desempenho:
 - Instalar o Docker;
 - Criar a imagem do Docker;
 - Executar o comando:
-- docker run -p (Número da porta: Numero da porta) Codigo da imagem docker 
+	- docker run -p (Número da porta: Numero da porta) Codigo da imagem docker 
 
 Após esses passos sua aplicação já estará rodando no docker;
 
